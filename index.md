@@ -3,8 +3,6 @@ layout: home
 title: AllStarLink Node 578494
 ---
 
-## [Optional: a one-line courtesy notice, e.g. "Amateur Radio traffic relayed through node [NODE NUMBER] may be recorded."]
-
 This page is maintained by KJ7T as the off-node reference for
 AllStarLink node 578494. It exists so information about the node —
 what it does, how it's used, and what's changed over time — stays
